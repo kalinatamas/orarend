@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kalinat\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kalinat\\.nuget\\packages"
+    ]
+  }
+}
